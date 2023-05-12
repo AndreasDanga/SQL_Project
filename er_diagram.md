@@ -1,3 +1,3 @@
 ## ER-Diagram
 
-![ER](./images/er-diagram.jpg)
+![ER](./images/ER-Diagram.jpg)
